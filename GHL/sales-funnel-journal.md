@@ -1,1 +1,2 @@
 <h1>A sales funnel is a step-by-step model that shows the journey people take from first learning about a business to buying a product. It is shaped like a wide funnel at the top because many people discover a brand, and it gets narrow at the bottom because only a few final buyers make a purchase.</h1>
+<img width="1200" height="736" alt="sales-funnel-aida" src="https://github.com/user-attachments/assets/d0b5cf8b-3b5f-45f6-9cfd-cb0901439747" />
