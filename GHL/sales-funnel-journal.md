@@ -1,1 +1,1 @@
-
+<h1>A sales funnel is a step-by-step model that shows the journey people take from first learning about a business to buying a product. It is shaped like a wide funnel at the top because many people discover a brand, and it gets narrow at the bottom because only a few final buyers make a purchase.</h1>
